@@ -30,12 +30,12 @@ Uppgiften var att i grupp designa en lösning på ett samhällsproblem.
 
 
 ## Tekniker som använts
-Figma  och Figma
-low-fidelity prototyping
-Mid-fidelity prototyyping
-Flowcharts
-Persona
-Användbarhetstester
+• ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) <br>
+• Flowcharts <br>
+• Persona <br>
+• Low-fidelity prototyping <br>
+• Mid-fidelity prototyyping <br>
+• Användbarhetstester <br>
 
 ## Uppgift: Lös ett samhällsproblem (gruppuppgift)
 **Introduktion till uppgiften** <br>
