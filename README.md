@@ -2,8 +2,13 @@
 ## Utbildning till Frontend developer på Medieinstitutet
 Skapa ett digitalt hjälpmedel som löser ett samhällsproblem. Se uppgiftsbeskrivning nedan.
 
-Skapad av **Marie Lenvik** <br>
+Skapad i grupp med mig, **Marie Lenvik** <br>
 https://github.com/M-Lenvik
+Gruppen bestod av:
+- [Marie Lenvik](https://github.com/M-Lenvik)
+- [Ellinor Johansson](https://github.com/ellinorjohansson)
+- [Emelie Wiberg](https://github.com/Erm0es)
+- [Jonatan Hellberg](https://github.com/JHellberg04)
 
 ## Innehållsförteckning
 1. [Beskrivning av uppgiften](#beskrivning-av-uppgiften)  
@@ -30,7 +35,7 @@ Uppgiften var att i grupp designa en lösning på ett samhällsproblem.
 
 
 ## Tekniker som använts
-• ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) <br>
+• Figma <br>
 • Flowcharts <br>
 • Persona <br>
 • Low-fidelity prototyping <br>
@@ -57,7 +62,7 @@ Slutmålet är att ni skall presentera er idé och hur ni kommit fram till den
 ## Lösning
 ### Valt samhällsproblem
 Vi i gruppen valde att arbeta utifrån den nya lagen kring textilavfall som trädde i kraft i januari 2025. Vårt projekt syftar till att utveckla en digital lösning för en tilltänkt kund med fokus på att minska konsumtionen av kläder och underlätta återbruk och återvinning. Uppgiften var att identifiera ett specifikt problemområde och ta fram en användarcentrerad designlösning som möter verkliga behov.<br><br>
-Vi arbetade enligt Design Thinking-metoden, som innefattar fem faser: Empatisera, Definiera, Idégenerera, Prototypa och Testa. Genom att arbeta iterativt kunde vi anpassa vår design utifrån användarbehov och testresultat. Vi genomförde user research, prototypframtagning och användartester för att säkerställa en funktionell och intuitiv lösning.<br><br>
+Vi arbetade enligt Design Thinking-metoden, som innefattar fem faser: Empatisera, Definiera, Idégenerera, Prototypa och Testa. Genom att arbeta iterativt kunde vi anpassa vår design utifrån användarbehov och testresultat. Vi genomförde user research, prototypframtagning och användbarhetstester för att säkerställa en funktionell och intuitiv lösning.<br><br>
 
 **Brainstorming**<br>
 ![Brainstorming](https://github.com/user-attachments/assets/c7e52384-acb2-4ae4-b868-1af0bd73633c)<br>
